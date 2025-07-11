@@ -22,4 +22,4 @@ export default defineConfig({
     open: true, // abre el navegador automáticamente al iniciar el servidor
     strictPort: true, // Fallará si el puerto está ocupado (evita que elija otro automáticamente)
   },
-});
+}); 
